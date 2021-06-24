@@ -6,7 +6,7 @@ Bons estudos! :) </i><br>
 </div>
 <br>
 
-Estes dois primeiros slides são uma breve introdução para quem quer tirar a certificação CTFL(que no Brasil o orgão responsável é a <a href="https://bstqb.org.br">BSTQB - Brazilian Software Testing Qualification Board</a>. Neste link você encontra o cronograma de provas, como fazer sua inscrição, toda a documentação necessária para se preparar e os requisitos de cada prova aplicada. 
+Estes dois primeiros slides são uma breve introdução para quem quer tirar a certificação CTFL(que no Brasil o orgão responsável é a <a href="https://bstqb.org.br">BSTQB - Brazilian Software Testing Qualification Board</a>). Neste link você encontra o cronograma de provas, como fazer sua inscrição, toda a documentação necessária para se preparar e os requisitos de cada prova aplicada. 
 <br><br>
 ![Slide1](https://user-images.githubusercontent.com/77998671/123182536-0de81b80-d466-11eb-8c23-d1de4506a3d4.png)
 <br>
