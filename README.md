@@ -31,8 +31,8 @@ Estes dois primeiros slides são uma breve introdução para quem quer tirar a c
 ![Slide6](https://user-images.githubusercontent.com/77998671/123191709-07fb3600-d478-11eb-9a64-512026a5a661.png)
 <br>
 
-![Slide7](https://user-images.githubusercontent.com/77998671/123191811-2d883f80-d478-11eb-8d1c-f81c59ceb187.png)
-<br>
+![Slide7](https://user-images.githubusercontent.com/77998671/123275775-0020ad80-d4db-11eb-8c1c-d48b77305005.png)
+
 
 ![Slide8](https://user-images.githubusercontent.com/77998671/123191837-3711a780-d478-11eb-9b98-75fd8a87286b.png)
 
